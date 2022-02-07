@@ -9,6 +9,4 @@ Este documento servirá como página de inicio y servirá para organizar el cont
 Puedes ver la información general del curso en la página de [[Bienvenida|bienvenida]].
 
 ## Tabla de contenido
-1. Preparación para la siguiente sesión 2
 
-    Después de la presentación del curso y como preparación para la siguiente sesión, trabaja el _Notebook_ de Colab correspondiente a la tarea 1 (ver página de [[tareas]]), después ve el video y lee el artículo [[The Seven Tools of Causal Inference]]
