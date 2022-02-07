@@ -22,7 +22,7 @@ Los porcentajes de la evaluación son los siguientes:
 
 ## Temario
 
-El temario (tentativo) del taller está en la página del [[Temario|temario]].
+El temario y el calendario (tentativos ambos) del taller están en la página del [[Temario|temario]] y [[Calendario|calendario]] respectivamente.
 
 
 ## Bibliografía
