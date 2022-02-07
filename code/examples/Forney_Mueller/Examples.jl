@@ -54,7 +54,7 @@ n = 10_000
 md"""
 ## Ejemplo 1
 
-**Desempeño atlético** Considera un deporte en el que el objetivo es predecir el desempeño de un atleta. Un modelo de aprendizaje automático utiliza las características $X$ y $Y$, que corresponden a la intensidad de entrenamiento y al nivel de habilidad, respectivamente. El resultado, $Y$, es el nivel de desempeño atlético. La siguiente celda genera datos de ejemplo:
+**Desempeño atlético** Considera un deporte en el que el objetivo es predecir el desempeño de un atleta. Un modelo de aprendizaje automático utiliza las características $X$ y $Z$, que corresponden a la intensidad de entrenamiento y al nivel de habilidad, respectivamente. El resultado, $Y$, es el nivel de desempeño atlético. La siguiente celda genera datos de ejemplo:
 """
 
 # ╔═╡ b4b98dd0-9354-45e9-a07a-009b7cbb9828
