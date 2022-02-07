@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "a86b697d747d51f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ecd20306cb51a3",
+        "type": "leaf",
+        "dimension": 50.779327317473346,
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "administrativo/Temario.md",
+            "mode": "preview",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "a5f3a6c2361562ca",
+        "type": "split",
+        "dimension": 49.22067268252666,
+        "children": [
+          {
+            "id": "e211b3dc57914a9a",
+            "type": "leaf",
+            "dimension": 52.51004016064257,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "da92ed802f841dd1",
+            "type": "leaf",
+            "dimension": 47.48995983935743,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "administrativo/Calendario.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4028716a94d8513b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c96fafccda32a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9792897633497a64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60b7a0a032738164",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[^1]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "02e3b1e44a9c780d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340
+  },
+  "right": {
+    "id": "bb69ff94fb06d98c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6d297a184c0643c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4beeb9936768273a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scratch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "459ca4c841957859",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d8fb35e913c2291b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "scratch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.33331298828125,
+    "collapsed": true
+  },
+  "active": "e211b3dc57914a9a",
+  "lastOpenFiles": [
+    "scratch.md",
+    "administrativo/Calendario.md",
+    "administrativo/Temario.md",
+    "Plan para clase de Inferencia causal.md",
+    "lecturas/Thinking Clearly About Correlations and Causation.md",
+    "lecturas/The Seven Tools of Causal Inference.md",
+    "lecturas/Structural Counterfactuals.md",
+    "lecturas/Radical Empiricism and Machine Learning Research.md",
+    "lecturas/On the Interpretation of do(x).md",
+    "lecturas/Causal Inference in AI Education.md"
+  ]
+}
