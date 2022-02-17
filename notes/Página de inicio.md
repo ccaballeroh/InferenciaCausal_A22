@@ -9,4 +9,6 @@ Este documento servirá como página de inicio y servirá para organizar el cont
 Puedes ver la información general del curso en la página de [[Bienvenida|bienvenida]].
 
 ## Tabla de contenido
-
+- Página de [[tareas]]
+- Página del [[Temario|temario]]
+- Página del [[calendario]] 

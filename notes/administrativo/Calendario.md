@@ -3,7 +3,7 @@
 | Sesión |Fecha | Tema | Lectura [^1] |
 |:--------:|:------|:------------|:-----------:|
 |1 |Feb-10| Introducción y Antecedentes | N/A |
-|2 |Feb-17| Antecendente (continuación)| N/A |
+|2 |Feb-17| Antecendentes (continuación)| N/A |
 |3 |Feb 24| Repaso probabilidad y estadística| 1.1-1.3 |
 |4|Mar-03|Modelos Causales Estructurales| 1.4-1.5 |
 |5|Mar-10|Modelos Gráficos| 2
