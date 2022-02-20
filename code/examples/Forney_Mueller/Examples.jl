@@ -123,7 +123,7 @@ train_model(x₂, y₂)
 md"""
 ## Ejemplo 3
 
-**Dinero** ¿Cuánto dinero gana un atleta? Esto depende, entre otras cosas, de sus desempeño atlético previo y su habilidad para negocias. ¿Puede un modelo de aprendizaje automático predecir la habilidad de negociación con base en su desempeño? La siguiente celda genera datos de ejemplo para desempeño atlético, $X$, habilidad de negociación, $Y$, y salario, $Z$:
+**Dinero** ¿Cuánto dinero gana un atleta? Esto depende, entre otras cosas, de su desempeño atlético previo y su habilidad para negociar. ¿Puede un modelo de aprendizaje automático predecir la habilidad de negociación con base en su desempeño? La siguiente celda genera datos de ejemplo para desempeño atlético, $X$, habilidad de negociación, $Y$, y salario, $Z$:
 """
 
 # ╔═╡ 3b63135b-14c2-4af7-b45a-de5cd1f6ede6
@@ -152,7 +152,7 @@ train_model(x₃, y₃)
 
 # ╔═╡ cc19cf93-cf32-4df1-bfa7-382099eca3ec
 md"""
-En esta ocasión, el peso de $X$ es despreciable. Ya que al generar los datos hicimos que la habilidad de negociación, $Y$, y el desempeño atlético, $X$, no estuvieran correlacionados, parece que este modelo es mejor para entender el efecto causal de la habilidad de negociación sobre el desempeño atlético (un eefcto nulo).
+En esta ocasión, el peso de $X$ es despreciable. Ya que al generar los datos hicimos que la habilidad de negociación, $Y$, y el desempeño atlético, $X$, no estuvieran correlacionados, parece que este modelo es mejor para entender el efecto causal de la habilidad de negociación sobre el desempeño atlético (un efecto nulo).
 """
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
@@ -420,9 +420,9 @@ version = "4.7.1"
 
 [[LLVMExtra_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
-git-tree-sha1 = "62115afed394c016c2d3096c5b85c407b48be96b"
+git-tree-sha1 = "f7f5dd0fb39209f4d28ca59d0d4e24579ad325fe"
 uuid = "dad2f222-ce93-54a1-a47d-0025e8a3acab"
-version = "0.0.13+1"
+version = "0.0.13+2"
 
 [[LazyArtifacts]]
 deps = ["Artifacts", "Pkg"]
@@ -769,7 +769,7 @@ uuid = "3f19e933-33d8-53b3-aaab-bd5110c3b7a0"
 # ╟─8c011b48-01fc-451d-b644-8bf819d5fa2d
 # ╠═85a980ad-6810-46b3-a793-eb7b16404710
 # ╟─1b1a2182-f650-4b53-b0b7-aefeba0a3c98
-# ╠═67d280b4-8f28-4ea3-a187-d22e6471fa5f
+# ╟─67d280b4-8f28-4ea3-a187-d22e6471fa5f
 # ╟─cc19cf93-cf32-4df1-bfa7-382099eca3ec
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
