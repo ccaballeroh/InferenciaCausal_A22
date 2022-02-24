@@ -1,0 +1,19 @@
+Sobre las limitaciones de las máquinas de aprendizaje opacas, de Judea Pearl
+Sara De Jesús Sánchez
+23 de febrero de 2022
+
+Judea Pearl es un ex físico, profesor de informática y director del Laboratorio de Sistemas Cognitivos de la UCLA. En el artículo menciona el interés que tenía en la cibernética, que era muy transparente, basado en las teorías de control y de la información, pero que ahora con el aprendizaje profundo se está perdiendo esa transparencia, pues finalmente se trata de ajustar curvas y pesos en capas intermedias de una cadena de entradas y salidas, que funcionan bien, pero muchos usuarios no saben por qué y, cuando no funcionan, se desconoce la razón y lo que se debería arreglar. Algunos argumentan que, como en el cerebro, la transparencia no es necesaria. Pero Judea dice que, al funcionar nuestro cerebro de la misma manera, podemos comunicarnos con otros y que, si todos los robots resultan opacos, no podemos mantener una conversación con ellos, teniendo que reentrenarlos cada vez que se cambia una tarea o el entorno.
+
+Judea Perl decidió comprender las limitaciones de esas máquinas de aprendizaje opacas y cómo superarlas, en el contexto del razonamiento causal.
+
+Los sistemas actuales de aprendizaje automático funcionan en un modo estadístico o ciego al modelo, lo que es como ajustar una función a una nube de puntos de datos. Pero no pueden razonar con preguntas del tipo ¿qué pasaría si…?, por lo que no pueden servir de base para la IA que emula el razonamiento y competencia a nivel humano, la IA fuerte. Este tipo de razonamiento, según los historiadores del homo sapiens, como Yuval Noah Harari y Steven Mithen dio a nuestros antepasados la capacidad de lograr el dominio global hace unos 40,000 años. Las preguntas tipo ¿qué pasaría si…? son intervencionistas, y las del tipo ¿qué pasaría si hubiera actuado diferente?, son retrospectivas o contrafactuales. Ninguna máquina de aprendizaje hoy en día puede responder esas preguntas y la mayoría no tienen una representación para poder responderlas.
+
+El razonamiento causal tiene organizadas esas limitaciones en una jerarquía. El primer nivel tiene razonamiento estadístico que dice cómo ver un evento cambiaría su creencia sobre otro, por ejemplo ¿qué nos dice un síntoma sobre una enfermedad? El segundo nivel implica el primero y requiere información sobre intervenciones no disponible en el primero, se puede representar qué variable responde a otra, por ejemplo ¿qué pasará si subimos los precios? El tercer nivel es el contrafáctico, el lenguaje utilizado por los científicos, no pueden derivarse, aunque pudiéramos predecir los efectos de todas las acciones, necesitan un factor adicional para ver cómo responden las variables a los cambios en otras variables, por ejemplo ¿qué pasaría si hiciera las cosas de manera diferente?
+
+La algoritmización de las intervenciones y de los contrafácticos ha sido un gran logro en la investigación de la inferencia causal. Se analiza el modelo para ver si con los datos disponibles se puede estimar una consulta sobre una intervención o un contrafactual y cómo.
+
+Judea Pearl ve en el aprendizaje automático una herramienta para pasar de los datos a las probabilidades. Pero para pasar de las probabilidades a la comprensión real se necesitan dos pasos: la predicción del efecto de las acciones y la imaginación contrafáctica.
+
+La IA fuerte, a nivel humano no puede surgir de máquinas de aprendizaje ciegas al modelo, se requiere una colaboración de datos y modelo.
+
+La ciencia de datos es una ciencia en tanto facilita la interpretación de los datos, conectándolos con la realidad. Los datos por muy grandes que sean o se manipulen con habilidad, no son ciencia.
