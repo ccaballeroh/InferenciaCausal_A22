@@ -8,7 +8,7 @@
 4. If you have never worked with pandas before, you can do the course in [Kaggle](https://www.kaggle.com/learn/pandas) instead and hand over the certifcate of completion.
 
 ##  Assignment 2
-**Deadline:** before, Feb 24, 2022
+**Deadline:** before Feb 24, 2022
 1. Read [[The Limitations of Opaque Learning Machines]] and [[The Seven Tools of Causal Inference]].
 2. You can take personal notes on the pages linked in the point above.
 3. Write a report for each paper in the `essays` folder.
@@ -16,7 +16,7 @@
 5. Upload **both** the raw markdown file and the PDF for each one.
 
 ##  Assignment 3
-**Deadline:** before, March 10, 2022
+**Deadline:** before March 10, 2022
 
 1. Read one from each group:
     1. Philosophy of Science
