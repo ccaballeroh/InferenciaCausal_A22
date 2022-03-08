@@ -1,0 +1,15 @@
+**Reports for The Limitations of Opaque Learning Machines**
+
+Brian Herrera
+
+Estoy totalmente de acuerdo con Judea Pearl en la necesidad de métodos más transparentes en el aprendizaje automático. Tal como lo menciona Boden, en su libro Mind as Machine: A History of Cognitive Science, se debe aspirar a una ciencia que nos otorgue explicabilidad, es muy difícil resolver algo complejo con un sólo experimento o con un solo proyecto de investigación, por lo tanto considero que lo que se debe buscar es explicabilidad de un fenómeno para poder generar conocimiento útil para alguien más y avanzar en el conocimiento del objeto de estudio.  
+
+Considero que si no existe explicabilidad se llega a un punto en el cual no se avanza, me gusta mucho la analogía de Pearl acerca de los babilonios y los griegos. En primer lugar, satisface la idea anterior, la cual considera que avanzar explicando otorga mejores beneficios a largo plazo. Otro punto que utiliza Judea Pearl a su favor es la imaginación de los griegos, con la cual trataban de interpretar y explicar la realidad, empero considero pertinente hablar también acerca del pensamiento crítico, ya que olvidarse de este punto tan relevante tiende a traer oscuridad en la Historia conocida.
+
+No obstante me gusta mucho como Judea hila los eventos de una manera tan sencilla que parece no haber existido un cambio de tema, verbigracia, cuando va de la imaginación en la ciencia griega para hablar acerca de los dos escalones superiores en su escalera de capacidades del pensamiento y el nivel actual de los modelos de aprendizaje automático, los cuales continuamente superan sus métricas, pero con dificultades que nos recuerdan que sigue siendo Inteligencia Artificial Débil, por ejemplo la incapacidad de adaptarse a un cambio de ambiente, comunicarse con un humano o integrar su conocimiento específico para una tarea más general.
+
+Y es que, conforme iba avanzado en mi conocimiento del aprendizaje automático me surgía una duda, la probabilidad de todos los modelos parecía reducirse a la esperanza condicional y había dos opciones, o la esperanza condicional era el culmen de la probabilidad para las ciencias de la computación, lo cual me parecía difícl de creer; o bien había un estancamiento en el uso de la probabilidad en esta disciplina.
+
+Mediante la tecnología principal que utilizo en mi proyecto, la arquitectura transformer, he visto diversas y muy variadas maneras de mejorarla, una de ellas era el uso de diversos Kernel para bajar la complejidad del cálculo, lo cual me hizo cuestionarme acerca de las herramientas matemáticas que podrían usarse para mejorar esta arquitectura u otros modelos de aprendizaje automático. En especial cuál de ellas podría darnos más información para poder explicar el funcionamiento tan opaco del sistema.
+
+Siempre me es grato conocer propuestas inter y multidisciplinarias y al parecer la causalidad, desde el punto de vista de Pearl puede aplicarse en ese camino, con el objetivo de obtener sistemas con mayor poder y con explicabilidad, por lo que lo considero sumamente interesante.
