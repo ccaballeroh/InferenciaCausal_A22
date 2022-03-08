@@ -8,21 +8,21 @@ Once we're done with the _Primer_, we'll look some advanced topics from the book
 
 ## Mechanics
 
-The instructor will present the main topics. The participants will present the content of some readings and write reports of others for their further discussion in class. By the end of the semester, the participants will deliver a capstone project. The project will be analyzing potential problems with data analysis or causal effect estimation of some proposed papers.
+The instructor will present the main topics. The participants will present the content of some readings and write reports of others for their further discussion in class. By the end of the semester, the participants will deliver a capstone project. The project will consist on analyzing potential problems with the data analysis or causal effect estimation of some proposed papers.
 
 The grading will have the following percentages:
 
 
 | Activity 				|Percentage |
 |---------------------------|-----------|
-| Assignments    			 	| 30%		|
+| Assignments    		 	| 30%		|
 | Presentations and reports	| 30% 		|
 | Capstone project 			| 40%		|
 
 
 ## Syllabus
 
-The syllabus and the calendarare in their respective pages :[[Syllabus]] and [[Calendar]].
+The syllabus and the calendar are in their respective pages: [[Syllabus]] and [[Calendar]].
 
 
 ## References
