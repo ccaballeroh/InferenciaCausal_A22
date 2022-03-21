@@ -4,7 +4,7 @@ In this class, we'll work mainly with the book [_Causal Inference in Statistics:
 
 Alongside with the chapters, we'll discuss selected readings from chapters of books and papers.
 
-Once we're done with the _Primer_, we'll look some advanced topics from the books [_Elements of Causal Inference: Foundations and Learning Algorithms_](https://mitpress.mit.edu/books/elements-causal-inference), [_The effect: An introduction to research design and causality_](https://theeffectbook.net/index.html) y [_Causal inference: The mixtape_](https://mixtape.scunning.com/).  These topics include causal discovery, the relationships of causal inference with machine learning and the most used techniques used in econometrics.
+Once we're done with _Primer_, we'll look some advanced topics from the books [_Elements of Causal Inference: Foundations and Learning Algorithms_](https://mitpress.mit.edu/books/elements-causal-inference), [_The effect: An introduction to research design and causality_](https://theeffectbook.net/index.html), and [_Causal inference: The mixtape_](https://mixtape.scunning.com/).  These topics include causal discovery, the relationships of causal inference with machine learning, and the most used techniques used in econometrics.
 
 ## Mechanics
 
