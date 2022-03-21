@@ -16,6 +16,9 @@
 5. Upload **both** the raw markdown file and the PDF for each one.
 
 ##  Assignment 3
+
+^c881c1
+
 **Deadline:** before March 10, 2022
 
 1. Read one from each group:
@@ -31,3 +34,10 @@
 2. Prepare a 10-20 minutes presentation on your readings and personal impressions or thoughts and ideas.
 3. Upload your slides previous to the deadline
 4. On March 10, we will randomly pick who will be the presenters
+
+## Assignment 4
+**Deadline:** before March 24, 2022
+
+Solve parts a), b), c), d), e.i) of study question 1.5.1 from [_Primer_ pages 28-29](http://bayes.cs.ucla.edu/PRIMER/primer-ch1.pdf). (Part e.ii is marked as "advanced" so it's optional for this assignment)  
+  
+You can upload whatever you like: a PDF rendered from an Obsidian file, a PDF from a LaTeX file, a scan of a page on your notebook, etc...
