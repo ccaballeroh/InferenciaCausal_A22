@@ -4,7 +4,7 @@ This repository holds the material for the Introduction to Causal Inference work
 
 ## Notes
 
-The workshop's notes are in folder `notes`. These notes are an [Obsidian](https://obsidian.md/) vault. Eventhough, the files are plain-text files written in Markdown, the use links in the \[\[Wiki\]\] format and contain rich multimedia, reason for which I recommend using Obsidian in order to have a better using experience.
+The workshop's notes are in folder `notes`. These notes are an [Obsidian](https://obsidian.md/) vault. Eventhough the files are plain-text files written in Markdown, they contain links with the \[\[Wiki\]\] format and rich multimedia, reasons for which I recommend using Obsidian in order to have a better user experience.
 
 ### Instructions
 
