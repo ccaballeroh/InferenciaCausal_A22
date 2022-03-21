@@ -1,6 +1,6 @@
 # Landing Page
 
-This is an [Obsidian](https://obsidian.md/) vault with the material we'll be working in the workshop of Introduction to Causal Inference.
+This is an [Obsidian](https://obsidian.md/) vault holding the material we'll be working with in the workshop of Introduction to Causal Inference.
 
 Just download Obsidian, select the `Open folder as vault` option, and pick the folder that holds these files.
 
