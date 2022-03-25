@@ -47,7 +47,7 @@ You can upload whatever you like: a PDF rendered from an Obsidian file, a PDF fr
 
 Solve study question 1.5.3 from [_Primer_ p. 32](http://bayes.cs.ucla.edu/PRIMER/primer-ch1.pdf).
 
-You will need to use the Law of Total Probability: $$P(A) = \sum_B P(A, B)$$ and Bayes' Theorem: $$P(A|B) = \frac{P(A,B)}{P(B)}$$.
+You will need to use the Law of Total Probability: $$P(A) = \sum_B P(A, B)$$ and the definition of conditional probability: $$P(A|B) = \frac{P(A,B)}{P(B)}$$.
 
 You can upload whatever you like: a PDF rendered from an Obsidian file, a PDF from a LaTeX file, a scan of a page on your notebook, etc...
 
