@@ -41,3 +41,14 @@
 Solve parts a), b), c), d), e.i) of study question 1.5.1 from [_Primer_ pages 28-29](http://bayes.cs.ucla.edu/PRIMER/primer-ch1.pdf). (Part e.ii is marked as "advanced" so it's optional for this assignment)  
   
 You can upload whatever you like: a PDF rendered from an Obsidian file, a PDF from a LaTeX file, a scan of a page on your notebook, etc...
+
+## Assignment 5
+**Deadline:** before March 31, 2022
+
+Solve study question 1.5.3 from [_Primer_ p. 32](http://bayes.cs.ucla.edu/PRIMER/primer-ch1.pdf).
+
+You will need to use the Law of Total Probability: $$P(A) = \sum_B P(A, B)$$ and Bayes' Theorem: $$P(A|B) = \frac{P(A,B)}{P(B)}$$.
+
+You can upload whatever you like: a PDF rendered from an Obsidian file, a PDF from a LaTeX file, a scan of a page on your notebook, etc...
+
+
