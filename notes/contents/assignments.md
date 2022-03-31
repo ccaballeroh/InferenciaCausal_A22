@@ -52,3 +52,10 @@ You will need to use the Law of Total Probability: $$P(A) = \sum_B P(A, B)$$ and
 You can upload whatever you like: a PDF rendered from an Obsidian file, a PDF from a LaTeX file, a scan of a page on your notebook, etc...
 
 
+## Assignment 6
+**Deadline:** before April 7, 2022
+
+1. Read [[Radical Empiricism and Machine Learning Research]] and [[Causal Models and Cognitive Development]].
+2. Write an essay (not minimum nor maximum extension) about what you found interesting, novel, point you disagree, etc.
+3. You can use Markdown in Obsidian or whatever tool you feel more comfortable with.
+4. Upload your PDF to the Classroom platform (if you do use Markdown and want to share your essay with the class, upload the raw Markdown file **too**).
