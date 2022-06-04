@@ -12,11 +12,12 @@
 |8|Mar-31| Graphical Models | 2 |
 |9|Apr-07| Interventions, adjustment formula | 3.1-3.3 |
 |10|Apr-28| Adjustment formula (cont.), backdoor criterion | 3.3 |
-|11|May-12| Frontdoor criterion, covariate-specific effects, inverse probability weighting | 3.4-3.6 | 
-|12|May-19| Mediation and causal inference in linear systems | 3.7-3.8|
-|13|May-26| Definition and compute of counterfactuals | 4.1-4.2 |
-|14|Jun-02| Counterfactual probabilities, counterfactuals in linear systems | 4.3 |
-|15|Jun-09| Counterfactuals: attribution, mediation, and practical uses | 4.4-4.5 |
-|16|Jun-16|||
+|11|May-12| Frontdoor criterion, covariate-specific effects | 3.4-3.5 | 
+|12|May-19| Inverse probability weighting and Mediation | 3.6-3.7|
+|N/A|May-26| No class | N/A |
+|13|Jun-02|  Causal inference in linear systems| 3.8 |
+|14|Jun-09| Definition and compute of counterfactuals, counterfactual probabilities, counterfactuals in linear systems | 4.1-4.3 |
+|15|Jun-16|Counterfactuals: attribution, mediation, and practical uses | 4.4-4.5 |
+|16 | Jun-23 |Presentations||
 
 [^1]: Pearl, J., Glymour, M., & Jewell, N. P. (2016). _Causal inference in statistics: A primer_. John Wiley & Sons.

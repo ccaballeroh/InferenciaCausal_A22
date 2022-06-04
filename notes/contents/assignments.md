@@ -59,3 +59,11 @@ You can upload whatever you like: a PDF rendered from an Obsidian file, a PDF fr
 2. Write an essay (not minimum nor maximum extension) about what you found interesting, novel, points you disagree, etc.
 3. You can use Markdown in Obsidian or whatever tool you feel more comfortable with.
 4. Upload your PDF to the Classroom platform (if you do use Markdown and want to share your essay with the class, upload the raw Markdown file **too**).
+
+## Assignment 7
+**Deadline:** before June 16, 2022
+
+1. Read [[On the Interpretation of do(x)]]
+2. Write an essay about what you found interesting or even confusing!
+3. You can use Markdown in Obsidian or the editor of your preference.
+4. Upload *only* your PDF to the platform.
