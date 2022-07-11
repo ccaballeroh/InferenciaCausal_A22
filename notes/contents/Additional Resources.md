@@ -28,7 +28,7 @@ These are the four parts of a two-day workshop that [Prof. Jonas Peters](http://
 
 ## Statistical Rethinking 2022
 
-Introduction to Bayesian statistics by [Prof. Richard McElreath](https://xcelab.net/rm/) with heavy use of causality and causal diagrams. It's based in his book with the [same name](http://xcelab.net/rm/statistical-rethinking/). It uses R and Stan (a Probabilistic Programing Language) but there are ports to Python and Julia.
+Introduction to Bayesian statistics by [Prof. Richard McElreath](https://xcelab.net/rm/) with heavy use of causality and causal diagrams. It's based in his book with the [same name](http://xcelab.net/rm/statistical-rethinking/). It uses R and Stan (a Probabilistic Programming Language) but there are ports to Python and Julia.
 
 https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN
 
