@@ -12,3 +12,4 @@ You can see the general information of the course on the  [[Welcome|welcome]] pa
 - [[assignments|Assignments]]
 - [[Syllabus]]
 - [[Calendar]] 
+- [[Additional Resources]]
