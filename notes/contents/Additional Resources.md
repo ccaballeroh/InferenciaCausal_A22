@@ -40,6 +40,6 @@ https://www.altdeep.ai/p/causalml
 
 ## Probabilistic Models of Cognition
 
-E-book by [Prof. Noah D. Goodman]() and [Prof. Joshua B. Tenenbaum] on probabilistic models in cognitive science. It touches con causality.
+E-book by [Prof. Noah D. Goodman](https://profiles.stanford.edu/noah-goodman) and [Prof. Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html) on probabilistic models in cognitive science. It touches con causality.
 
 https://probmods.org/
